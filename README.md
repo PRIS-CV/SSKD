@@ -1,5 +1,6 @@
 # SSKD
-Code release for SSKD
+Code release for SSKD: Self-Supervised Knowledge Distillation for Cross Domain Adaptive Person
+Re-Identification
 
 # Requirements
 python 3.6
