@@ -17,7 +17,7 @@ bash scripts/sskd_pretrain.sh
 
 Step 2:Train on target dataset
 ```Swift
-bash scripts/sskd_pretrain.sh
+bash scripts/sskd_train.sh
 ```
 
 # Acknowledgments
