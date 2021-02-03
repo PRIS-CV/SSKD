@@ -1,5 +1,5 @@
 # SSKD
-Code release for [SSKD]
+Code release for SSKD
 
 # Requirements
 python 3.6
